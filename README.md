@@ -20,7 +20,7 @@ jha bhi commit history change hogi (github me  commit id 1 present h but locally
 
 1 new commit id bn gai. yha bhi push krne k liye use "git push -f" or "git push origin main --force"
 
-```git drop```
+## git drop
 
 ![alt text](image-4.png)
 
@@ -31,6 +31,11 @@ jha bhi commit history change hogi (github me  commit id 1 present h but locally
 change it to drop
 
 ![alt text](image-1.png)
+
+
+## git cherry pick
+
+![alt text](image-6.png)
 
 
 
