@@ -19,3 +19,11 @@ jha bhi commit history change hogi (github me  commit id 1 present h but locally
 ![alt text](image-3.png)
 
 1 new commit id bn gai. yha bhi push krne k liye use "git push -f" or "git push origin main --force"
+
+## git drop
+
+![alt text](image-4.png)
+
+say i want to remove commit 2fe22fc
+
+![alt text](image-5.png)
